@@ -1,0 +1,3 @@
+[submodule "LocalTest/foundry-app/lib/forge-std"]
+	path = LocalTest/foundry-app/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
